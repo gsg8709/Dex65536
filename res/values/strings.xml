@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dex65536</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="hint">通过创建和修改custom_rules.xml文件，解决分包编译成个两个dex文件，绕过编译器的单个dex文件只有65536个方法限制问题。
+                                    第三方框架jar包被编译成第二个dex文件</string>
+
+</resources>
